@@ -999,6 +999,19 @@
 		)
 		(uuid "1ab6fb0f-c8cf-49d0-976a-b32c6c7ad7cf")
 	)
+	(text "  | M  A  K  E  R\n--|---------------\nF | R  G  E  N  H\n--|---------------\nA | L  C  B  P  X\n--|---------------\nI | A  Z  U  A  Y\n--|---------------\nR | R  R  C  D  O\n--|---------------\nE | W  R  Q  S  R"
+		(exclude_from_sim yes)
+		(at 172.974 80.518 0)
+		(effects
+			(font
+				(face "Adwaita Mono")
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left)
+		)
+		(uuid "928f1994-8b56-4a08-8c31-f3d4b6b920e7")
+	)
 	(text "0805"
 		(exclude_from_sim no)
 		(at 111.252 37.592 0)
@@ -5468,10 +5481,11 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 139.7 76.7079 0)
+		(property "Value" "MI RE"
+			(at 139.7 75.4379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -5962,7 +5976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -6018,10 +6032,11 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 139.7 51.3079 0)
+		(property "Value" "AA EI"
+			(at 139.7 50.0379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6029,7 +6044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 142.24 53.34 0)
 			(effects
 				(font
@@ -6122,10 +6137,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "031345d8-d167-49dd-9e68-955ca05f9c2d")
+			(uuid "031345d8-d167-49dd-9e68-955ca05f9c2e")
 		)
 		(pin "2"
-			(uuid "bddfa940-d974-4df5-b198-db4c309b281c")
+			(uuid "bddfa940-d974-4df5-b198-db4c309b281d")
 		)
 		(instances
 			(project "mfzh25_token"
@@ -6153,10 +6168,11 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 139.7 64.0079 0)
+		(property "Value" "KR RF"
+			(at 139.7 62.7379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6164,7 +6180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 142.24 66.04 0)
 			(effects
 				(font
@@ -6231,7 +6247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 88.9 91.44 0)
 			(effects
 				(font
@@ -6259,7 +6275,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6d")
+			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6e")
 		)
 		(instances
 			(project ""
@@ -6324,10 +6340,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "031345d8-d167-49dd-9e68-955ca05f9c2d")
+			(uuid "031345d8-d167-49dd-9e68-955ca05f9c2f")
 		)
 		(pin "2"
-			(uuid "bddfa940-d974-4df5-b198-db4c309b281c")
+			(uuid "bddfa940-d974-4df5-b198-db4c309b281e")
 		)
 		(instances
 			(project "mfzh25_token"
@@ -6401,10 +6417,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6504")
+			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6505")
 		)
 		(pin "2"
-			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170a")
+			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170b")
 		)
 		(instances
 			(project ""
@@ -6511,7 +6527,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 88.9 53.34 0)
 			(effects
 				(font
@@ -6539,7 +6555,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6d")
+			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6f")
 		)
 		(instances
 			(project ""
@@ -6613,10 +6629,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6504")
+			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6506")
 		)
 		(pin "2"
-			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170a")
+			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170c")
 		)
 		(instances
 			(project ""
@@ -6749,10 +6765,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "031345d8-d167-49dd-9e68-955ca05f9c2d")
+			(uuid "031345d8-d167-49dd-9e68-955ca05f9c30")
 		)
 		(pin "2"
-			(uuid "bddfa940-d974-4df5-b198-db4c309b281c")
+			(uuid "bddfa940-d974-4df5-b198-db4c309b281f")
 		)
 		(instances
 			(project "mfzh25_token"
@@ -7028,10 +7044,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6504")
+			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6507")
 		)
 		(pin "2"
-			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170a")
+			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170d")
 		)
 		(instances
 			(project ""
@@ -7217,7 +7233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 88.9 78.74 0)
 			(effects
 				(font
@@ -7245,7 +7261,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6d")
+			(uuid "f1144505-bf51-42e5-a691-a112f12f3c70")
 		)
 		(instances
 			(project ""
@@ -7273,10 +7289,11 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 139.7 89.4079 0)
+		(property "Value" "AR KF"
+			(at 139.7 88.1379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7284,7 +7301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 142.24 91.44 0)
 			(effects
 				(font
@@ -7312,7 +7329,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "abae7398-161d-41d6-9c2e-20ae0b0ae921")
+			(uuid "abae7398-161d-41d6-9c2e-20ae0b0ae922")
 		)
 		(instances
 			(project "mfzh25_token"
@@ -7588,10 +7605,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6504")
+			(uuid "b8234dba-f53a-44ea-9471-9628cd8e6508")
 		)
 		(pin "2"
-			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170a")
+			(uuid "20c60d59-e3d1-4006-861e-eb561fc2170e")
 		)
 		(instances
 			(project ""
@@ -7766,7 +7783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 88.9 66.04 0)
 			(effects
 				(font
@@ -7794,7 +7811,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1144505-bf51-42e5-a691-a112f12f3c6d")
+			(uuid "f1144505-bf51-42e5-a691-a112f12f3c71")
 		)
 		(instances
 			(project ""
@@ -7956,10 +7973,11 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 139.7 102.1079 0)
+		(property "Value" "MF RR"
+			(at 139.7 100.8379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7967,7 +7985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 142.24 104.14 0)
 			(effects
 				(font
@@ -7995,7 +8013,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "abae7398-161d-41d6-9c2e-20ae0b0ae921")
+			(uuid "abae7398-161d-41d6-9c2e-20ae0b0ae923")
 		)
 		(instances
 			(project "mfzh25_token"
